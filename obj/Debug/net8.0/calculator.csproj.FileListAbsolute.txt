@@ -1,0 +1,15 @@
+c:\Users\romua\Documents\GitHub\calculator\bin\Debug\net8.0\calculator.exe
+C:\Users\romua\Documents\GitHub\calculator\bin\Debug\net8.0\calculator.deps.json
+C:\Users\romua\Documents\GitHub\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+c:\Users\romua\Documents\GitHub\calculator\bin\Debug\net8.0\calculator.dll
+c:\Users\romua\Documents\GitHub\calculator\bin\Debug\net8.0\calculator.pdb
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.sourcelink.json
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.dll
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\refint\calculator.dll
+c:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.pdb
+C:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+C:\Users\romua\Documents\GitHub\calculator\obj\Debug\net8.0\ref\calculator.dll
